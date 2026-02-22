@@ -3,6 +3,8 @@
   "name": "PathIntellisense",
   "main": "dist/main.js",
   "version": "1.1.2",
+  "license": "MIT",
+  "keywords": ["path", "intellisense", "completion"],
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
