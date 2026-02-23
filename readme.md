@@ -11,6 +11,7 @@ Are you tired of tediously typing file paths while coding? Say goodbye to manual
 - **Nested Relative Paths Handling**: Seamlessly handle nested relative paths such as `../../folder/nestedFolder`.
 - **Caching Mechanism**: Optimize performance with a caching system to store and retrieve directory suggestions, reducing redundant filesystem operations.
 - **Supports Prefix**: like: `$HOME`
+- Supports codemirror 
 
 ### Clear Cache
 
